@@ -32,9 +32,11 @@ h1 {
 
 
 h2 {
+    margin-bottom: 0;
     text-align: center;
     font-size: 175%;
-    margin: 3% 0;
+    border: 2px solid black;
+    /* margin: 3% 0; */
 }
 
 nav {
@@ -73,9 +75,10 @@ main {
 }
 
 section {
-    display: flex;
+    width: 70%;
+    display:flex;
     flex-direction: row;
-    margin: 25px;
+    margin: 25px auto;
     padding: 10px;
     text-align: center;
     border-style: solid;
@@ -88,17 +91,17 @@ section {
 #self-portrait,
 #dallas-tx {
     flex: 1 1 auto;
-    margin: 2px;
+    margin: 20px auto;
     padding: 2px;
     border: 2px solid #fff;
     max-width: 50%;
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     header {
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: column;
     }
 
     section {
