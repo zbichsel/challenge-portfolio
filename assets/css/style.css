@@ -1,3 +1,9 @@
+.root {
+    background-color: #1a1a1d;
+    color: #fff;
+    font-family: ;
+}
+
 #grad1 {
     background: red;
     /* For browsers that do not support gradients */
@@ -72,9 +78,7 @@ nav a:hover {
 
 .pictures {
     display: flex;
-    /* flex-wrap: wrap; */
     flex-direction: column;
-    /* justify-content: flex-start; */
 }
 
 section {
@@ -96,6 +100,10 @@ section {
     border: 2px solid #fff;
     max-width: 50%;
 }
+#challenge-projects:hover {
+    opacity: 60%;
+    border: 2px solid #c3073f
+}
 
 .my-info a {
     display: block;
@@ -108,21 +116,23 @@ section {
 }
 
 .my-info a:visited {
-    color: #c3073f;
+    color: blue;
+}
+
+.my-info a:hover {
+    background-color: rgb(153, 151, 151);
 }
 
 
 @media screen and (max-width: 768px) {
     header {
-        display: flex;
-        flex: 1 1 0;
+        text-align: center;
         flex-direction: column;
-        justify-content: center;
+        flex-wrap: wrap;
     }
 
-    section {
+    .pictures {
         display: flex;
-        flex: 1 1 0;
         flex-direction: column;
     }
 }
