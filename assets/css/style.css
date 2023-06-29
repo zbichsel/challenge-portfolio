@@ -1,3 +1,4 @@
+/* #grad1 and .line are both used to create rainbow border effect at top of page */
 #grad1 {
     background: red;
     /* For browsers that do not support gradients */
@@ -9,6 +10,11 @@
     /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
     /* Standard syntax (must be last) */
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
 }
 
 .line {
@@ -25,7 +31,9 @@ header {
     color: #fff;
 }
 
+/* added footer rainbow effect */
 footer {
+    font-size: 16px;
     padding: 10px;
     text-align: center;
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);

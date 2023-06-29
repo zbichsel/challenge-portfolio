@@ -15,7 +15,7 @@ Each link in the navigation bar at the top of the page will bring you to the top
 
 ## Screenshot
 
-![Screenshot](./assets/images/portfolio-challenge-2.png)
+![Screenshot](./assets/images/portfolio-challenge-0201.png)
 
 ## Links
 
