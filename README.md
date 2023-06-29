@@ -15,13 +15,13 @@ Each link in the navigation bar at the top of the page will bring you to the top
 
 ## Screenshot
 
-![Screenshot](./assets/images/portfolio-challenge-0201.png)
+![Screenshot](./assets/images/challenge-portfolio-0203.png)
 
 ## Links
 
 https://zbichsel.github.io/challenge-portfolio
 
-
+https://www.github.com/zbichsel/challenge-portfolio
 
 ## Credits
 
