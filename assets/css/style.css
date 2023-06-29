@@ -88,9 +88,9 @@ section {
     color: #fff;
 }
 
-#zack-logo,
-#self-portrait,
-#dallas-tx {
+#challenge-projects,
+#dallas-tx,
+#geist {
     margin: 20px auto;
     padding: 2px;
     border: 2px solid #fff;
@@ -117,6 +117,7 @@ section {
         display: flex;
         flex: 1 1 0;
         flex-direction: column;
+        justify-content: center;
     }
 
     section {
