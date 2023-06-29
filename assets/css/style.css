@@ -97,6 +97,20 @@ section {
     max-width: 50%;
 }
 
+.my-info a {
+    display: block;
+    border: 2px solid #fff;
+    padding: 2%;
+    margin: 0 125px 0 125px;
+    background-color: #fff;
+    color:#1a1a1d;
+    box-shadow: inset 2px 2px 3px black;
+}
+
+.my-info a:visited {
+    color: #c3073f;
+}
+
 
 @media screen and (max-width: 768px) {
     header {
