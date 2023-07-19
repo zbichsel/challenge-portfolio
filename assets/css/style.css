@@ -136,6 +136,10 @@ section {
     background-color: rgb(153, 151, 151);
 }
 
+#park-safe {
+    width: 25%;
+}
+
 
 @media screen and (max-width: 768px) {
     header {
