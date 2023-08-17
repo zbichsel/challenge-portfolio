@@ -140,6 +140,10 @@ section {
     width: 25%;
 }
 
+#bookify {
+    width: 25%;
+}
+
 
 @media screen and (max-width: 768px) {
     header {
