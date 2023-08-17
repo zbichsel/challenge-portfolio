@@ -16,6 +16,8 @@ Each link in the navigation bar at the top of the page will bring you to the top
 ## Screenshot
 
 ![Screenshot](./assets/images/challenge-portfolio-0203.png)
+![Screenshot](./assets/images/is-my-park-safe-01.png)
+![Screenshot](./assets/images/Bookify.png)
 
 ## Links
 
