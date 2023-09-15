@@ -136,11 +136,9 @@ section {
     background-color: rgb(153, 151, 151);
 }
 
-#park-safe {
-    width: 25%;
-}
-
-#bookify {
+#park-safe,
+#bookify,
+#greenthumb {
     width: 25%;
 }
 
